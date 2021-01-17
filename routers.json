@@ -1,0 +1,22 @@
+[
+	{
+		"method": "GET",
+		"path": "/ping",
+		"name": "github.com/el-ideal-ideas/el-logserver/src/handler.Ping"
+	},
+	{
+		"method": "GET",
+		"path": "/insert",
+		"name": "github.com/el-ideal-ideas/el-logserver/src/handler.InsertLog"
+	},
+	{
+		"method": "POST",
+		"path": "/insert",
+		"name": "github.com/el-ideal-ideas/el-logserver/src/handler.InsertLog"
+	},
+	{
+		"method": "GET",
+		"path": "/cnt",
+		"name": "github.com/el-ideal-ideas/el-logserver/src/handler.Count"
+	}
+]

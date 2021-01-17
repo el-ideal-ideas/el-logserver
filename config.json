@@ -1,0 +1,22 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 9090,
+    "use_real_ip_header": false
+  },
+  "system": {
+    "max_size_of_log_queue": 100000
+  },
+  "basic_auth": {
+    "use": true,
+    "user": "el-ideal-ideas",
+    "pass": "mochimochi"
+  },
+  "view": {
+    "log_num_per_page": 1024
+  },
+  "db": {
+    "kind": "sqlite",
+    "url": ""
+  }
+}
